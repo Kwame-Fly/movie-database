@@ -9,6 +9,7 @@ Responsive UI: Mobile-friendly design for all screen sizes.
 Technologies Used
 Frontend: React.js, React Router, Axios, Tailwind CSS (or styled-components)
 API: TMDB API for movie data (posters, ratings, cast, etc.)
+
 Setup & Installation
 Clone the repository:
 
